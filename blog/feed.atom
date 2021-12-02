@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Blog Starter Template</title>
+    <link href="https://my-jigsaw-blog.com/blog" />
+    <link type="application/atom+xml" rel="self" href="https://my-jigsaw-blog.com/blog/feed.atom" />
+    <updated>2021-12-02T19:11:24+00:00</updated>
+    <id>https://my-jigsaw-blog.com/blog/feed.atom</id>
+    <author>
+        <name>Author Name</name>
+    </author>
+        
+Warning: Undefined variable $posts in C:\laragon\www\venetusdigital\cache\926063bd76a6235eff86f7d35a268b2065432c13.php on line 2
+
+Warning: foreach() argument must be of type array|object, null given in C:\laragon\www\venetusdigital\cache\926063bd76a6235eff86f7d35a268b2065432c13.php on line 2
+</feed>
